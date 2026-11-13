@@ -17,7 +17,7 @@
     "@codemirror/state": "^6.2.1",
     "@codemirror/view": "^6.17.0",
     "@twemoji/api": "^14.1.2",
-    "lodash": "^4.17.21",
+    "lodash": "^4.18.1",
     "node-emoji": "^2.1.0",
     "obsidian": "^1.4.11"
   },
@@ -32,7 +32,7 @@
     "builtin-modules": "^3.3.0",
     "copy-newer": "^2.1.2",
     "dotenv": "^16.3.1",
-    "esbuild": "^0.19.2",
+    "esbuild": "^0.28.1",
     "esbuild-svelte": "^0.7.4",
     "eslint": "^8.48.0",
     "eslint-import-resolver-typescript": "^3.6.0",
@@ -42,7 +42,7 @@
     "lint-staged": "^14.0.1",
     "sass": "^1.66.1",
     "semver": "^7.5.4",
-    "svelte": "^4.2.0",
+    "svelte": "^5.55.7",
     "svelte-preprocess": "^5.0.4",
     "tsx": "^3.12.7",
     "typescript": "^5.2.2"
